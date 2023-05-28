@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-5
-#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-5+
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-16
