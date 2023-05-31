@@ -1,23 +1,156 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-5
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#https://live.goodiptv.club/api/yqgd.php?id=cctv5hd
+https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+#https://live.goodiptv.club/api/ghyx.php?id=CCTV5HD_6000
+#https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+#https://cntv.sbs/live05?id=cctv5
+#http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
+#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#https://epg.pw/stream/1baf07fb4c56286569e0cc47392184ae7e88426eadf301b11e43f1f6c255fb2f.m3u8
+
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-5+
+https://live.goodiptv.club/api/yqgd.php?id=cctv5p
+#https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+#https://live.goodiptv.club/api/ghyx.php?id=CCTV5plusHD_6000
+#https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+#https://cntv.sbs/live05?id=cctv5p
+#http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
+#https://epg.pw/stream/01e6fe6a363083d56694d179b8c12583ca55e7add1be35944c9426b2977dba01.m3u8
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",CCTV-16
+https://live.goodiptv.club/api/yqgd.php?id=cctv16hd
+#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+#https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+#https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
+#https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+#https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+#https://cntv.sbs/live05?id=cctv16
+#https://cntv.sbs/live05?id=cctv164k
+#http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
+#https://epg.pw/stream/b1a57434085505577df0af52b854430d9a21b46382d75da6613326865b6a51a6.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",CCTV风云足球
+https://live.goodiptv.club/api/yqgd.php?id=fyzq
+#https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",CCTV央视台球
+https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",CCTV高尔夫-网球
+https://live.goodiptv.club/api/cqyx.php?id=golfHD
+#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",iHOT爱体育
+http://39.134.136.160:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",广东体育
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",辽宁体育
 http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+
 #EXTINF:-1 group-title="Sport",tvg-country="China",五星体育
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#https://cntv.sbs/live05?id=wxty
+#http://222.65.21.143:4022/udp/239.45.3.210:5140
+#https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",魅力足球
+https://live.goodiptv.club/api/yqgd.php?id=mlzqhd
+#https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+#https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+#https://cntv.sbs/live05?id=mlzq
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",劲爆体育
+https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
+#https://live.goodiptv.club/api/ghyx.php?id=JinBaoTiYuHD_6000
+#https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+#https://cntv.sbs/live05?id=jbty
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",NewTV超级体育
 
 #EXTINF:-1 group-title="Sport",tvg-country="China",NewTV精品体育
 
+#EXTINF:-1 group-title="Sport",tvg-country="China",FTV-足球
+https://live.goodiptv.club/api/ghyx.php?id=ZuQiuHD_6000
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",咪咕体育-4K-足球
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+
+#EXTINF:-1 group-title="Sport",tvg-country="China",咪咕体育-4K-篮球
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
 #EXTINF:-1 group-title="Sport",tvg-country="HK",香港有线体育
 
 #EXTINF:-1 group-title="Sport",tvg-country="TW",纬来体育
-https://pull-l3-cny.douyincdn.com/live/6ed7d99b705df208d9c73563ced46d93.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="TW",ELEVEN1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="TW",ELEVEN2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
 #EXTINF:-1 group-title="Sport",tvg-country="TW",智林体育
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",NW-SPORT1
+https://epg.pw/stream/23af59c5ee47cea43a02dc6165eef78413eb7695ef723cd55ee7d46d94870928.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",NW-SPORT2
+https://epg.pw/stream/912a51ecdc4a3af653f88940acf201dcc9a676dbef2e582efb1abb17d6e96cbd.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",NW-SPORT3
+https://epg.pw/stream/372791c3213c1aea9c8c4c356bed8310ac22dc6894a61c0ed038760d0aa23bf5.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",astro-SUPERSPORTS
+https://epg.pw/stream/b3e1c4c4dc84c354048f79f07a4cfd8d61536fe9d23b4500f882a2f863ce9d20.ctv
+
+#EXTINF:-1 group-title="Sport",tvg-country="",astro-SUPERSPORTS4
+https://epg.pw/stream/93d9a90fe7b8624303c495247c12ca4eb15bb9d89d87ceeaf9add5c27e99ed97.ctv
+
+#EXTINF:-1 group-title="Sport",tvg-country="",astro-SUPERSPORTS5
+https://epg.pw/stream/0aaf540cd5cd56b24b0dcd35e406be3f3a578ac9391419ec514b64d71be26597.ctv
+
+#EXTINF:-1 group-title="Sport",tvg-country="",TVRISPORT-RECORDED
+https://epg.pw/stream/ce748d6ab451cf7348529effe72063e928ffaee405c1ccc3ae6c34fe722c483d.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",TRSPORT
+https://epg.pw/stream/ae729647bf76de06c95ae9115b95f46b56af0d894561937b8d1ee067130b5e14.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",abu dhabi sports 1
+https://epg.pw/stream/06d0257a0a7975199f9d0ce9f09e8fb04c84bbcf29954097427ac5b9626a02f8.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",abu dhabi sports 2
+https://epg.pw/stream/a9aba689c0880d008595b43598e6894d20082d890dad72ba538ccbad37af8287.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",dubai racing 3
+https://epg.pw/stream/2c18a02b762f70770a21eab64cff9edeeb65dedb511b3376a2fdebd25db9afff.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",dubai sports 2
+https://epg.pw/stream/100bbeef4444f70fabad09fdff37f59be4912283786839d7fc01b571ce45299f.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",sportstv
+https://epg.pw/stream/711156c22820aaa6cf745b108339a67e2af2282b2dbb8a1b8c61e7b1f6676e20.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",ksa2
+https://epg.pw/stream/0fa3f5199915b12c4da3a9aed540f0c933238f6e97af6b3b48b66489e440c212.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",sports
+https://epg.pw/stream/e04767a9f28083c8d3706985f543623a83a5e4ded5d16080cdc0a8b50a06d01b.m3u8
+
+#EXTINF:-1 group-title="Sport",tvg-country="",Canal 5 Noticias y Deportes-Colonia
+https://epg.pw/stream/742c6205c7d12517ea1e187913be8c5da95e98e7550b7d228b0449e749555420.m3u8
